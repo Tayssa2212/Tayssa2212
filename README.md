@@ -47,6 +47,3 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
-
-Se quiser, posso inserir seus links reais de Instagram, LinkedIn, Discord etc., e até colocar uma frase ou emoji que você usa bastante pra deixar ainda mais sua cara. Quer? 💜
-
